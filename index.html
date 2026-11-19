@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Comedogenic ingredients list (Fulton 1989): 219 grades as CSV and JSON</title>
+<meta name="description" content="Open dataset of the comedogenic and irritancy grades (0 to 5) for 219 cosmetic ingredients from Fulton's 1989 rabbit ear study, as CSV and JSON.">
+<link rel="canonical" href="https://shehrii.github.io/comedogenic-ingredients/">
+<style>body{font:16px/1.5 system-ui,sans-serif;max-width:960px;margin:0 auto;padding:16px;color:#222}table{border-collapse:collapse;width:100%;font-size:14px}th,td{border-bottom:1px solid #ddd;padding:6px;text-align:left;vertical-align:top}th{background:#f4f4f4;position:sticky;top:0}input{width:100%;padding:8px;font-size:16px;margin:8px 0}</style></head>
+<body>
+<h1>Comedogenic ingredients list</h1>
+<p>Comedogenic (pore-clogging) and irritancy grades on a 0 to 5 scale for 219 cosmetic ingredients, transcribed from James E. Fulton Jr., <em>Comedogenicity and irritancy of commonly used ingredients in skin care products</em>, Journal of the Society of Cosmetic Chemists (1989) 40(6), pages 321 to 333, using the rabbit ear model. The page number of the source table is in the CSV.</p>
+<p>Download: <a href="comedogenic-ingredients.csv">CSV</a> · <a href="comedogenic-ingredients.json">JSON</a> · <a href="https://github.com/Shehrii/comedogenic-ingredients">GitHub repository</a></p>
+<p>To check a whole product label against this list, paste it into the free <a href="https://heyskin.app/pore-clogging-ingredient-checker/">pore-clogging ingredient checker</a> by Hey Skin, which this dataset was built for.</p>
+<p><strong>Read the grades with care.</strong> They come from rabbit ears, which react more strongly than human skin, and Fulton notes that results depended on the supplier and grade of each raw material and on the concentration in the finished product. A high grade means "worth checking if you break out", not "this product will clog pores".</p>
+<input id="q" placeholder="Filter ingredients, e.g. coconut, myristate, red 30" aria-label="Filter ingredients">
+<table><thead><tr><th>Ingredient</th><th>Comedogenic</th><th>Irritancy</th><th>Group</th><th>Note</th></tr></thead><tbody id="t">
+<tr><td>Acetylated lanolin</td><td>0</td><td>0</td><td>Lanolins and derivatives</td><td></td></tr>
+<tr><td>Acetylated lanolin alcohol</td><td>4</td><td>2</td><td>Lanolins and derivatives</td><td>Fulton traced the reaction to the cetyl acetate additive, not to the acetylated lanolin itself.</td></tr>
+<tr><td>Anhydrous lanolin</td><td>0-1*</td><td>0</td><td>Lanolins and derivatives</td><td></td></tr>
+<tr><td>Lanolin alcohol</td><td>0-2*</td><td>0</td><td>Lanolins and derivatives</td><td></td></tr>
+<tr><td>Lanolin oil</td><td>0-1*</td><td>0</td><td>Lanolins and derivatives</td><td></td></tr>
+<tr><td>PEG 16 lanolin (Solulan 16)</td><td>4</td><td>3</td><td>Lanolins and derivatives</td><td>Fulton linked the reaction to non-lanolin additives in the raw material (ceteth-16, oleth-16, steareth-16).</td></tr>
+<tr><td>PEG 75 lanolin</td><td>0</td><td>0</td><td>Lanolins and derivatives</td><td></td></tr>
+<tr><td>Laneth-10</td><td>2</td><td>1</td><td>Lanolins and derivatives</td><td></td></tr>
+<tr><td>PPG 12 PEG 65 lanolin oil</td><td>2</td><td>0</td><td>Lanolins and derivatives</td><td></td></tr>
+<tr><td>Caprylic acid</td><td>1</td><td>3</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Capric acid</td><td>2</td><td>2</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Lauric acid</td><td>4</td><td>1</td><td>Fatty acids and their derivatives</td><td>Lauric acid derivatives such as laureth-4 were named among the major offenders.</td></tr>
+<tr><td>Myristic acid</td><td>3</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Palmitic acid</td><td>2</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Stearic acid</td><td>2-3*</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Eicosanoic acid</td><td>2</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Behenic acid</td><td>0</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Ascorbyl palmitate</td><td>2</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Behenyl erucate</td><td>0</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Butyl stearate</td><td>3</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Cetyl acetate</td><td>4</td><td>2</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Cetyl ester NF</td><td>1</td><td>1</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Cetyl palmitate</td><td>0</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Decyl oleate</td><td>3</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Di (2 ethylhexyl) succinate</td><td>2</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Dioctyl malate</td><td>3</td><td>1</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Dioctyl succinate</td><td>3</td><td>2</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Diisopropyl adipate</td><td>0</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Diisopropyl dimerate</td><td>0</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Ethylhexyl palmitate</td><td>4</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Ethylhexyl pelargonate</td><td>2</td><td>3</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Isodecyl oleate</td><td>2-3*</td><td>1-2</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Isopropyl isostearate</td><td>5</td><td>0</td><td>Fatty acids and their derivatives</td><td>A close cousin of isopropyl myristate; Fulton lists this family as comedogenic.</td></tr>
+<tr><td>Isopropyl linolate</td><td>4</td><td>2</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Isopropyl myristate</td><td>5</td><td>3</td><td>Fatty acids and their derivatives</td><td>Named by Fulton as one of the major offenders to use with caution in skin care products.</td></tr>
+<tr><td>Isopropyl palmitate</td><td>4</td><td>1</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Isostearyl neopentanoate</td><td>3</td><td>3</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Isostearyl isostearate</td><td>4</td><td>1</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Myristyl lactate</td><td>4</td><td>2</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Myristyl myristate</td><td>5</td><td>2</td><td>Fatty acids and their derivatives</td><td>A close cousin of isopropyl myristate; Fulton lists this family as comedogenic.</td></tr>
+<tr><td>Octyldodecyl stearate</td><td>0</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Octyldodecyl stearoyl stearate</td><td>0</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Stearyl heptanoate</td><td>4</td><td>0</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>Tridecyl neopentanoate</td><td>0</td><td>3</td><td>Fatty acids and their derivatives</td><td></td></tr>
+<tr><td>SD alcohol 40</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Isopropyl alcohol</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Myristyl alcohol</td><td>2</td><td>4</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Cetyl alcohol</td><td>2</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Isocetyl alcohol</td><td>4</td><td>4</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Cetearyl alcohol</td><td>2</td><td>1</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Oleyl alcohol</td><td>4</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Stearyl alcohol</td><td>2</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Cetearyl alcohol + ceteareth 20</td><td>4</td><td>1</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Ceteareth-20</td><td>2</td><td>3</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Propylene glycol</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Butylene glycol</td><td>1</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Hexylene glycol</td><td>0-2*</td><td>0-1</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PG caprylate/caprate</td><td>2</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PG dicaprylate/caprate</td><td>1</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PG dipelargonate</td><td>2</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PG laurate</td><td>0</td><td>3</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PG monostearate</td><td>0-3</td><td>0-1</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Ethylene glycol monostearate</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Glucose glutamate</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Sorbitol</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Sorbitan laurate</td><td>1-2*</td><td>1-2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Sorbitan sesquinoleate</td><td>0-1*</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Sorbitan oleate</td><td>3</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Sorbitan stearate</td><td>0</td><td>1</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Sorbitan isostearate</td><td>1-2*</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PEG 40 sorbitan laurate</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Polysorbate 20</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Polysorbate 80</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Glycerin</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Glycereth-26</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Glyceryl-3-diisostearate</td><td>4</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Glyceryl stearate NSE</td><td>1</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td>Plain (non-self-emulsifying) glyceryl stearate. If the label says glyceryl stearate SE, the SE grade of 3 applies instead.</td></tr>
+<tr><td>Glyceryl stearate SE</td><td>3</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td>SE (self-emulsifying) grades contain added sodium or potassium stearate, which made the mix more comedogenic than plain glyceryl stearate.</td></tr>
+<tr><td>Glyceryl tricapylo/caprate</td><td>1</td><td>1</td><td>Alcohols, sugars and their derivatives</td><td>Matched to caprylic/capric triglyceride, the current label name for this ingredient.</td></tr>
+<tr><td>Behenyl triglyceride</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Pentaerythrital tetra isostearate</td><td>2</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Pentaerythrital tetra capra/caprylate</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Wheat germ glyceride</td><td>3</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Polyglyceryl-3-diisostearate</td><td>4</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Polyethylene glycol (PEG 400)</td><td>1</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Sucrose distearate</td><td>0</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Sucrose stearate</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PEG 120 methyl glucose dioleate</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PEG 8 stearate</td><td>3</td><td>1</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PEG 20 stearate</td><td>1</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PEG 100 stearate</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PEG 100 distearate</td><td>2</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PEG 150 distearate</td><td>2</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PEG 200 dilaurate</td><td>3</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Laureth-4</td><td>5</td><td>4</td><td>Alcohols, sugars and their derivatives</td><td>Named by Fulton as one of the major offenders (a lauric acid derivative).</td></tr>
+<tr><td>Laureth-23</td><td>3</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Steareth-2</td><td>2</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Steareth-10</td><td>4</td><td>3</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Steareth-20</td><td>2</td><td>1</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Steareth-100</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Oleth-3</td><td>5</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Oleth-5</td><td>3</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Oleth-10</td><td>2</td><td>1</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Oleth-20</td><td>1</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Oleth-3 phosphate</td><td>2</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Triacetin</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PPG 5 ceteth 10 phosphate</td><td>4</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PPG 2 myristyl propionate</td><td>3</td><td>2</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PPG 10 cetyl ether</td><td>3</td><td>1</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PPG 30 cetyl ester</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PPG 50 cetyl ester</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PEG 78 glyceryl monococoate</td><td>0</td><td>1</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PEG 8 castor oil</td><td>1</td><td>1</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>PEG 40 castor oil</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Polypentaerythrital tetralaurate</td><td>0</td><td>0</td><td>Alcohols, sugars and their derivatives</td><td></td></tr>
+<tr><td>Candelilla wax</td><td>1</td><td>0</td><td>Waxes</td><td></td></tr>
+<tr><td>Carnauba wax</td><td>1</td><td>0</td><td>Waxes</td><td></td></tr>
+<tr><td>Ceresin wax</td><td>0</td><td>0</td><td>Waxes</td><td></td></tr>
+<tr><td>Beeswax</td><td>0-2*</td><td>0</td><td>Waxes</td><td>Some commercial batches were more comedogenic than others, suggesting contaminants.</td></tr>
+<tr><td>Lanolin wax</td><td>1</td><td>0</td><td>Waxes</td><td></td></tr>
+<tr><td>Jojoba oil</td><td>0-2*</td><td>0</td><td>Waxes</td><td>Some commercial batches were more comedogenic than others, suggesting contaminants.</td></tr>
+<tr><td>Sulfated jojoba oil</td><td>3</td><td>2</td><td>Waxes</td><td>Modifying the wax (sulfation) made it able to react.</td></tr>
+<tr><td>Emulsifying wax NF</td><td>0</td><td>0-2*</td><td>Waxes</td><td>Irritancy depended on how much cetearyl alcohol the wax contained.</td></tr>
+<tr><td>Carboxymethylcellulose</td><td>0</td><td>0</td><td>Thickeners</td><td></td></tr>
+<tr><td>Carboxypropylcellulose</td><td>1</td><td>0</td><td>Thickeners</td><td></td></tr>
+<tr><td>Hydroxypropylcellulose</td><td>1</td><td>0</td><td>Thickeners</td><td></td></tr>
+<tr><td>Magnesium aluminum silicate</td><td>0</td><td>0</td><td>Thickeners</td><td></td></tr>
+<tr><td>Carbomer 940</td><td>1</td><td>0</td><td>Thickeners</td><td></td></tr>
+<tr><td>Bentonite</td><td>0</td><td>0</td><td>Thickeners</td><td></td></tr>
+<tr><td>Kaolin</td><td>0</td><td>0</td><td>Thickeners</td><td></td></tr>
+<tr><td>Talc</td><td>1</td><td>0</td><td>Thickeners</td><td></td></tr>
+<tr><td>PVP</td><td>0</td><td>0</td><td>Thickeners</td><td></td></tr>
+<tr><td>Cocoa butter</td><td>4</td><td>0</td><td>Oils</td><td>Fulton notes cocoa and coconut butter have long been known to cause pomade acne, confirmed in the rabbit ear test.</td></tr>
+<tr><td>Coconut butter</td><td>4</td><td>0</td><td>Oils</td><td>Fulton tested coconut butter, the solid form of coconut fat; on labels it appears as Cocos Nucifera (Coconut) Oil. Fulton notes cocoa and coconut butter have long been known to cause pomade acne.</td></tr>
+<tr><td>Hydrogenated vegetable oil</td><td>3</td><td>0</td><td>Oils</td><td>Fulton suggests it contains residual irritating lipids.</td></tr>
+<tr><td>Sesame oil</td><td>3(1)</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Corn oil</td><td>3</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Avocado oil</td><td>3(2)</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Evening primrose oil</td><td>3</td><td>2</td><td>Oils</td><td></td></tr>
+<tr><td>Mink oil</td><td>3(2)</td><td>1</td><td>Oils</td><td></td></tr>
+<tr><td>Soybean oil</td><td>3</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Shark liver oil</td><td>3</td><td>2</td><td>Oils</td><td></td></tr>
+<tr><td>Cotton seed oil</td><td>3</td><td>2</td><td>Oils</td><td></td></tr>
+<tr><td>Peanut oil</td><td>2</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Olive oil</td><td>2(1)</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Sandalwood seed oil</td><td>2</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Almond oil</td><td>2(1)</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Apricot kernel oil</td><td>2(1)</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Hydrogenated polyisobutane</td><td>1</td><td>2</td><td>Oils</td><td></td></tr>
+<tr><td>Castor oil</td><td>1</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Hydrogenated castor oil</td><td>1</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Chaulmoogra oil</td><td>1</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Babassu oil</td><td>1</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Squalane</td><td>1</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Maleated soybean oil</td><td>0</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Safflower oil</td><td>0</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Sunflower oil</td><td>0</td><td>0</td><td>Oils</td><td></td></tr>
+<tr><td>Mineral oil</td><td>0-2</td><td>0</td><td>Oils</td><td>Fulton: some sources are acceptable, others are not.</td></tr>
+<tr><td>D&amp;C red #3</td><td>3</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>D&amp;C red #4</td><td>2</td><td>1</td><td>Pigments</td><td></td></tr>
+<tr><td>D&amp;C red #6</td><td>1</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>D&amp;C red #7</td><td>1</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>D&amp;C red #9</td><td>1</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>D&amp;C red #17</td><td>3</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>D&amp;C red #19</td><td>2</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>D&amp;C red #21</td><td>2</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>D&amp;C red #27</td><td>2</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>D&amp;C red #30</td><td>3</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>D&amp;C red #33</td><td>1</td><td>2</td><td>Pigments</td><td></td></tr>
+<tr><td>D&amp;C red #36</td><td>3</td><td>0</td><td>Pigments</td><td>Grade 3 in mineral oil, 1 in propylene glycol and 0 in PEG 400 (Fulton Table II): the base matters.</td></tr>
+<tr><td>D&amp;C red #40</td><td>2</td><td>2</td><td>Pigments</td><td></td></tr>
+<tr><td>Ultramarine violet</td><td>0</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>Iron oxides</td><td>0</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>Carmine</td><td>0</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>Titanium dioxide</td><td>0</td><td>0</td><td>Pigments</td><td></td></tr>
+<tr><td>Simethicone</td><td>1</td><td>0</td><td>Silicones</td><td></td></tr>
+<tr><td>Dimethicone</td><td>1</td><td>0</td><td>Silicones</td><td></td></tr>
+<tr><td>Cyclomethicone</td><td>0</td><td>0</td><td>Silicones</td><td></td></tr>
+<tr><td>Cholesterol</td><td>0</td><td>0</td><td>Sterols</td><td></td></tr>
+<tr><td>Soya sterol</td><td>0</td><td>0</td><td>Sterols</td><td></td></tr>
+<tr><td>PEG 5 soya sterol</td><td>0</td><td>0</td><td>Sterols</td><td></td></tr>
+<tr><td>PEG 10 soya sterol</td><td>0</td><td>1</td><td>Sterols</td><td></td></tr>
+<tr><td>Choleth 24</td><td>0</td><td>0</td><td>Sterols</td><td></td></tr>
+<tr><td>Sterol esters</td><td>0</td><td>0</td><td>Sterols</td><td></td></tr>
+<tr><td>Phytantriol</td><td>2</td><td>2</td><td>Sterols</td><td></td></tr>
+<tr><td>A &amp; D additive</td><td>2</td><td>0</td><td>Vitamins and herbs</td><td></td></tr>
+<tr><td>Tocopherol</td><td>0-3*</td><td>0-3*</td><td>Vitamins and herbs</td><td>Fulton calls tocopherol a follicular irritant and advises against it on acne-prone skin; tocopheryl acetate scored 0.</td></tr>
+<tr><td>Tocopheryl acetate</td><td>0</td><td>0</td><td>Vitamins and herbs</td><td></td></tr>
+<tr><td>Black walnut extract</td><td>0</td><td>0</td><td>Vitamins and herbs</td><td></td></tr>
+<tr><td>Papain</td><td>0</td><td>0</td><td>Vitamins and herbs</td><td></td></tr>
+<tr><td>Chamomile extract</td><td>0</td><td>0</td><td>Vitamins and herbs</td><td></td></tr>
+<tr><td>Vitamin A palmitate</td><td>1-3*</td><td>1-3*</td><td>Vitamins and herbs</td><td></td></tr>
+<tr><td>Panthenol</td><td>0</td><td>0</td><td>Vitamins and herbs</td><td></td></tr>
+<tr><td>Methyl paraben</td><td>0</td><td>0</td><td>Preservatives and additives</td><td></td></tr>
+<tr><td>Propylparaben</td><td>0</td><td>0</td><td>Preservatives and additives</td><td></td></tr>
+<tr><td>Phenoxyethyl paraben</td><td>0</td><td>0</td><td>Preservatives and additives</td><td></td></tr>
+<tr><td>Allantoin</td><td>0</td><td>0</td><td>Preservatives and additives</td><td></td></tr>
+<tr><td>Sodium hyaluronate</td><td>0</td><td>0</td><td>Preservatives and additives</td><td></td></tr>
+<tr><td>Chondroitin sulfate</td><td>0</td><td>0</td><td>Preservatives and additives</td><td></td></tr>
+<tr><td>Precipitated sulfur</td><td>0</td><td>0</td><td>Preservatives and additives</td><td></td></tr>
+<tr><td>Water-soluble sulfur</td><td>3</td><td>0</td><td>Preservatives and additives</td><td></td></tr>
+<tr><td>Octyl dimethyl PABA</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Oxybenzone</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Octyl methoxycinnamate</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Octyl salicylate</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Acetone</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Ethyl ether</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Diethylene glycol monoethyl ether</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Ethylene glycol monomethyl ether (EGME)</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Xylene</td><td>4</td><td>3</td><td>Miscellaneous</td><td>A solvent; Fulton found it comedogenic and irritating.</td></tr>
+<tr><td>Lithium stearate</td><td>1</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Magnesium stearate</td><td>1</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Zinc oxide</td><td>1</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Zinc stearate</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Triethanolamine</td><td>2</td><td>0</td><td>Miscellaneous</td><td>Fulton found triethanolamine more comedogenic than aminomethylpropylamine.</td></tr>
+<tr><td>Stearic acid:TEA</td><td>3</td><td>2</td><td>Miscellaneous</td><td>The stearic acid and triethanolamine pair used in cold creams; every ratio tested was comedogenic.</td></tr>
+<tr><td>Amoniomethylpropinate</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Sodium PCA</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+<tr><td>Hydrolyzed animal protein</td><td>0</td><td>0</td><td>Miscellaneous</td><td></td></tr>
+</tbody></table>
+<p>Compiled by <a href="https://heyskin.app/">Hey Skin</a>. Data compilation licensed CC BY 4.0: credit "Hey Skin (heyskin.app), from Fulton 1989".</p>
+<script>document.getElementById('q').addEventListener('input',e=>{const v=e.target.value.toLowerCase();for(const r of document.querySelectorAll('#t tr'))r.style.display=r.textContent.toLowerCase().includes(v)?'':'none'})</script>
+</body></html>

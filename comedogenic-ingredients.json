@@ -1,0 +1,1973 @@
+[
+ {
+  "ingredient": "Acetylated lanolin",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Lanolins and derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Acetylated lanolin alcohol",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "2",
+  "tier": "high",
+  "group": "Lanolins and derivatives",
+  "source_page": "324",
+  "note": "Fulton traced the reaction to the cetyl acetate additive, not to the acetylated lanolin itself."
+ },
+ {
+  "ingredient": "Anhydrous lanolin",
+  "comedogenic_grade": "0-1*",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Lanolins and derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Lanolin alcohol",
+  "comedogenic_grade": "0-2*",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Lanolins and derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Lanolin oil",
+  "comedogenic_grade": "0-1*",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Lanolins and derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 16 lanolin (Solulan 16)",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "3",
+  "tier": "high",
+  "group": "Lanolins and derivatives",
+  "source_page": "324",
+  "note": "Fulton linked the reaction to non-lanolin additives in the raw material (ceteth-16, oleth-16, steareth-16)."
+ },
+ {
+  "ingredient": "PEG 75 lanolin",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Lanolins and derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Laneth-10",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "1",
+  "tier": "low-moderate",
+  "group": "Lanolins and derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PPG 12 PEG 65 lanolin oil",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Lanolins and derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Caprylic acid",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "3",
+  "tier": "low",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Capric acid",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "2",
+  "tier": "low-moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Lauric acid",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "1",
+  "tier": "high",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": "Lauric acid derivatives such as laureth-4 were named among the major offenders."
+ },
+ {
+  "ingredient": "Myristic acid",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Palmitic acid",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Stearic acid",
+  "comedogenic_grade": "2-3*",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Eicosanoic acid",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Behenic acid",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Ascorbyl palmitate",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Behenyl erucate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Butyl stearate",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Cetyl acetate",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "2",
+  "tier": "high",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Cetyl ester NF",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "1",
+  "tier": "low",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Cetyl palmitate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Decyl oleate",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Di (2 ethylhexyl) succinate",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Dioctyl malate",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "1",
+  "tier": "moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Dioctyl succinate",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "2",
+  "tier": "moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Diisopropyl adipate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Diisopropyl dimerate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Ethylhexyl palmitate",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "0",
+  "tier": "high",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Ethylhexyl pelargonate",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "3",
+  "tier": "low-moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Isodecyl oleate",
+  "comedogenic_grade": "2-3*",
+  "irritancy_grade": "1-2",
+  "tier": "moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Isopropyl isostearate",
+  "comedogenic_grade": "5",
+  "irritancy_grade": "0",
+  "tier": "high",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": "A close cousin of isopropyl myristate; Fulton lists this family as comedogenic."
+ },
+ {
+  "ingredient": "Isopropyl linolate",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "2",
+  "tier": "high",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Isopropyl myristate",
+  "comedogenic_grade": "5",
+  "irritancy_grade": "3",
+  "tier": "high",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": "Named by Fulton as one of the major offenders to use with caution in skin care products."
+ },
+ {
+  "ingredient": "Isopropyl palmitate",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "1",
+  "tier": "high",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Isostearyl neopentanoate",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "3",
+  "tier": "moderate",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Isostearyl isostearate",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "1",
+  "tier": "high",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Myristyl lactate",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "2",
+  "tier": "high",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Myristyl myristate",
+  "comedogenic_grade": "5",
+  "irritancy_grade": "2",
+  "tier": "high",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": "A close cousin of isopropyl myristate; Fulton lists this family as comedogenic."
+ },
+ {
+  "ingredient": "Octyldodecyl stearate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Octyldodecyl stearoyl stearate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Stearyl heptanoate",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "0",
+  "tier": "high",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Tridecyl neopentanoate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "3",
+  "tier": "low",
+  "group": "Fatty acids and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "SD alcohol 40",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Isopropyl alcohol",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Myristyl alcohol",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "4",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Cetyl alcohol",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "2",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Isocetyl alcohol",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "4",
+  "tier": "high",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Cetearyl alcohol",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "1",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Oleyl alcohol",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "2",
+  "tier": "high",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Stearyl alcohol",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "2",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Cetearyl alcohol + ceteareth 20",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "1",
+  "tier": "high",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Ceteareth-20",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "3",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Propylene glycol",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Butylene glycol",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Hexylene glycol",
+  "comedogenic_grade": "0-2*",
+  "irritancy_grade": "0-1",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PG caprylate/caprate",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "2",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PG dicaprylate/caprate",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PG dipelargonate",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "2",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PG laurate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "3",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PG monostearate",
+  "comedogenic_grade": "0-3",
+  "irritancy_grade": "0-1",
+  "tier": "moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Ethylene glycol monostearate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Glucose glutamate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Sorbitol",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Sorbitan laurate",
+  "comedogenic_grade": "1-2*",
+  "irritancy_grade": "1-2",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Sorbitan sesquinoleate",
+  "comedogenic_grade": "0-1*",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Sorbitan oleate",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Sorbitan stearate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "1",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Sorbitan isostearate",
+  "comedogenic_grade": "1-2*",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 40 sorbitan laurate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Polysorbate 20",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Polysorbate 80",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Glycerin",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Glycereth-26",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Glyceryl-3-diisostearate",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "0",
+  "tier": "high",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Glyceryl stearate NSE",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": "Plain (non-self-emulsifying) glyceryl stearate. If the label says glyceryl stearate SE, the SE grade of 3 applies instead."
+ },
+ {
+  "ingredient": "Glyceryl stearate SE",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "2",
+  "tier": "moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": "SE (self-emulsifying) grades contain added sodium or potassium stearate, which made the mix more comedogenic than plain glyceryl stearate."
+ },
+ {
+  "ingredient": "Glyceryl tricapylo/caprate",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "1",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": "Matched to caprylic/capric triglyceride, the current label name for this ingredient."
+ },
+ {
+  "ingredient": "Behenyl triglyceride",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Pentaerythrital tetra isostearate",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Pentaerythrital tetra capra/caprylate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Wheat germ glyceride",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "2",
+  "tier": "moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Polyglyceryl-3-diisostearate",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "0",
+  "tier": "high",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Polyethylene glycol (PEG 400)",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Sucrose distearate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "2",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "Sucrose stearate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 120 methyl glucose dioleate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 8 stearate",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "1",
+  "tier": "moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 20 stearate",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 100 stearate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "324",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 100 distearate",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 150 distearate",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 200 dilaurate",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "2",
+  "tier": "moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Laureth-4",
+  "comedogenic_grade": "5",
+  "irritancy_grade": "4",
+  "tier": "high",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": "Named by Fulton as one of the major offenders (a lauric acid derivative)."
+ },
+ {
+  "ingredient": "Laureth-23",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Steareth-2",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "2",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Steareth-10",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "3",
+  "tier": "high",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Steareth-20",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "1",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Steareth-100",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Oleth-3",
+  "comedogenic_grade": "5",
+  "irritancy_grade": "2",
+  "tier": "high",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Oleth-5",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "2",
+  "tier": "moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Oleth-10",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "1",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Oleth-20",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Oleth-3 phosphate",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "2",
+  "tier": "low-moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Triacetin",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PPG 5 ceteth 10 phosphate",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "2",
+  "tier": "high",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PPG 2 myristyl propionate",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "2",
+  "tier": "moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PPG 10 cetyl ether",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "1",
+  "tier": "moderate",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PPG 30 cetyl ester",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PPG 50 cetyl ester",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 78 glyceryl monococoate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "1",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 8 castor oil",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "1",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 40 castor oil",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Polypentaerythrital tetralaurate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Alcohols, sugars and their derivatives",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Candelilla wax",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Waxes",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Carnauba wax",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Waxes",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Ceresin wax",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Waxes",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Beeswax",
+  "comedogenic_grade": "0-2*",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Waxes",
+  "source_page": "325",
+  "note": "Some commercial batches were more comedogenic than others, suggesting contaminants."
+ },
+ {
+  "ingredient": "Lanolin wax",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Waxes",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Jojoba oil",
+  "comedogenic_grade": "0-2*",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Waxes",
+  "source_page": "325",
+  "note": "Some commercial batches were more comedogenic than others, suggesting contaminants."
+ },
+ {
+  "ingredient": "Sulfated jojoba oil",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "2",
+  "tier": "moderate",
+  "group": "Waxes",
+  "source_page": "325",
+  "note": "Modifying the wax (sulfation) made it able to react."
+ },
+ {
+  "ingredient": "Emulsifying wax NF",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0-2*",
+  "tier": "low",
+  "group": "Waxes",
+  "source_page": "325",
+  "note": "Irritancy depended on how much cetearyl alcohol the wax contained."
+ },
+ {
+  "ingredient": "Carboxymethylcellulose",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Thickeners",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Carboxypropylcellulose",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Thickeners",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Hydroxypropylcellulose",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Thickeners",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Magnesium aluminum silicate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Thickeners",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Carbomer 940",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Thickeners",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Bentonite",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Thickeners",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Kaolin",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Thickeners",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Talc",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Thickeners",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PVP",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Thickeners",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Cocoa butter",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "0",
+  "tier": "high",
+  "group": "Oils",
+  "source_page": "325",
+  "note": "Fulton notes cocoa and coconut butter have long been known to cause pomade acne, confirmed in the rabbit ear test."
+ },
+ {
+  "ingredient": "Coconut butter",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "0",
+  "tier": "high",
+  "group": "Oils",
+  "source_page": "325",
+  "note": "Fulton tested coconut butter, the solid form of coconut fat; on labels it appears as Cocos Nucifera (Coconut) Oil. Fulton notes cocoa and coconut butter have long been known to cause pomade acne."
+ },
+ {
+  "ingredient": "Hydrogenated vegetable oil",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": "Fulton suggests it contains residual irritating lipids."
+ },
+ {
+  "ingredient": "Sesame oil",
+  "comedogenic_grade": "3(1)",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Corn oil",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Avocado oil",
+  "comedogenic_grade": "3(2)",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Evening primrose oil",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "2",
+  "tier": "moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Mink oil",
+  "comedogenic_grade": "3(2)",
+  "irritancy_grade": "1",
+  "tier": "moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Soybean oil",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Shark liver oil",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "2",
+  "tier": "moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Cotton seed oil",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "2",
+  "tier": "moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Peanut oil",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Olive oil",
+  "comedogenic_grade": "2(1)",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Sandalwood seed oil",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Almond oil",
+  "comedogenic_grade": "2(1)",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Apricot kernel oil",
+  "comedogenic_grade": "2(1)",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Hydrogenated polyisobutane",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "2",
+  "tier": "low",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Castor oil",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Hydrogenated castor oil",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Chaulmoogra oil",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Babassu oil",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Squalane",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Maleated soybean oil",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Safflower oil",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Sunflower oil",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Oils",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Mineral oil",
+  "comedogenic_grade": "0-2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Oils",
+  "source_page": "325",
+  "note": "Fulton: some sources are acceptable, others are not."
+ },
+ {
+  "ingredient": "D&C red #3",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "D&C red #4",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "1",
+  "tier": "low-moderate",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "D&C red #6",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "D&C red #7",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "D&C red #9",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "D&C red #17",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "D&C red #19",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "D&C red #21",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "D&C red #27",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "D&C red #30",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "D&C red #33",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "2",
+  "tier": "low",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "D&C red #36",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": "Grade 3 in mineral oil, 1 in propylene glycol and 0 in PEG 400 (Fulton Table II): the base matters."
+ },
+ {
+  "ingredient": "D&C red #40",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "2",
+  "tier": "low-moderate",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Ultramarine violet",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Iron oxides",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Carmine",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Titanium dioxide",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Pigments",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Simethicone",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Silicones",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Dimethicone",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Silicones",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Cyclomethicone",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Silicones",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Cholesterol",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Sterols",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "Soya sterol",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Sterols",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 5 soya sterol",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Sterols",
+  "source_page": "325",
+  "note": ""
+ },
+ {
+  "ingredient": "PEG 10 soya sterol",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "1",
+  "tier": "low",
+  "group": "Sterols",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Choleth 24",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Sterols",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Sterol esters",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Sterols",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Phytantriol",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "2",
+  "tier": "low-moderate",
+  "group": "Sterols",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "A & D additive",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Vitamins and herbs",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Tocopherol",
+  "comedogenic_grade": "0-3*",
+  "irritancy_grade": "0-3*",
+  "tier": "moderate",
+  "group": "Vitamins and herbs",
+  "source_page": "326",
+  "note": "Fulton calls tocopherol a follicular irritant and advises against it on acne-prone skin; tocopheryl acetate scored 0."
+ },
+ {
+  "ingredient": "Tocopheryl acetate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Vitamins and herbs",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Black walnut extract",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Vitamins and herbs",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Papain",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Vitamins and herbs",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Chamomile extract",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Vitamins and herbs",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Vitamin A palmitate",
+  "comedogenic_grade": "1-3*",
+  "irritancy_grade": "1-3*",
+  "tier": "moderate",
+  "group": "Vitamins and herbs",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Panthenol",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Vitamins and herbs",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Methyl paraben",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Preservatives and additives",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Propylparaben",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Preservatives and additives",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Phenoxyethyl paraben",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Preservatives and additives",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Allantoin",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Preservatives and additives",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Sodium hyaluronate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Preservatives and additives",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Chondroitin sulfate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Preservatives and additives",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Precipitated sulfur",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Preservatives and additives",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Water-soluble sulfur",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "0",
+  "tier": "moderate",
+  "group": "Preservatives and additives",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Octyl dimethyl PABA",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Oxybenzone",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Octyl methoxycinnamate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Octyl salicylate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Acetone",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Ethyl ether",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Diethylene glycol monoethyl ether",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Ethylene glycol monomethyl ether (EGME)",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Xylene",
+  "comedogenic_grade": "4",
+  "irritancy_grade": "3",
+  "tier": "high",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": "A solvent; Fulton found it comedogenic and irritating."
+ },
+ {
+  "ingredient": "Lithium stearate",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Magnesium stearate",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Zinc oxide",
+  "comedogenic_grade": "1",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Zinc stearate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Triethanolamine",
+  "comedogenic_grade": "2",
+  "irritancy_grade": "0",
+  "tier": "low-moderate",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": "Fulton found triethanolamine more comedogenic than aminomethylpropylamine."
+ },
+ {
+  "ingredient": "Stearic acid:TEA",
+  "comedogenic_grade": "3",
+  "irritancy_grade": "2",
+  "tier": "moderate",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": "The stearic acid and triethanolamine pair used in cold creams; every ratio tested was comedogenic."
+ },
+ {
+  "ingredient": "Amoniomethylpropinate",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Sodium PCA",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ },
+ {
+  "ingredient": "Hydrolyzed animal protein",
+  "comedogenic_grade": "0",
+  "irritancy_grade": "0",
+  "tier": "low",
+  "group": "Miscellaneous",
+  "source_page": "326",
+  "note": ""
+ }
+]
