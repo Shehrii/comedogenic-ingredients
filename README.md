@@ -2,7 +2,7 @@
 
 Comedogenic and irritancy grades (0 to 5) for 219 cosmetic ingredients, transcribed from:
 
-> Fulton JE Jr. Comedogenicity and irritancy of commonly used ingredients in skin care products. *Journal of the Society of Cosmetic Chemists* 40(6):321-333 (1989). Rabbit ear model. Background on how the grades are used today: Draelos ZD, DiNardo JC, *A re-evaluation of the comedogenicity concept*, J Am Acad Dermatol 2006 ([PubMed 16488305](https://pubmed.ncbi.nlm.nih.gov/16488305/)).
+> Fulton JE Jr. [Comedogenicity and irritancy of commonly used ingredients in skin care products](https://library.scconline.org/v040n06/13). *Journal of the Society of Cosmetic Chemists* 40(6):321-333 (1989). Rabbit ear model. Background on how the grades are used today: Draelos ZD, DiNardo JC, *A re-evaluation of the comedogenicity concept*, J Am Acad Dermatol 2006 ([PubMed 16488305](https://pubmed.ncbi.nlm.nih.gov/16488305/)).
 
 Browse and filter it at **https://shehrii.github.io/comedogenic-ingredients/**, or check a full product label with the free [pore-clogging ingredient checker](https://heyskin.app/pore-clogging-ingredient-checker/) from [Hey Skin](https://heyskin.app/).
 
